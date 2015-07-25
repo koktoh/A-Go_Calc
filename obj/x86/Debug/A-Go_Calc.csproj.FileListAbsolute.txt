@@ -1,0 +1,27 @@
+C:\Users\黒田悠介\AppData\Local\Temporary Projects\A-Go_Calc\bin\Debug\A-Go_Calc.exe
+C:\Users\黒田悠介\AppData\Local\Temporary Projects\A-Go_Calc\bin\Debug\A-Go_Calc.pdb
+C:\Users\黒田悠介\AppData\Local\Temporary Projects\A-Go_Calc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\黒田悠介\AppData\Local\Temporary Projects\A-Go_Calc\obj\x86\Debug\A_Go_Calc.Form1.resources
+C:\Users\黒田悠介\AppData\Local\Temporary Projects\A-Go_Calc\obj\x86\Debug\A_Go_Calc.Properties.Resources.resources
+C:\Users\黒田悠介\AppData\Local\Temporary Projects\A-Go_Calc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\黒田悠介\AppData\Local\Temporary Projects\A-Go_Calc\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\黒田悠介\AppData\Local\Temporary Projects\A-Go_Calc\obj\x86\Debug\A-Go_Calc.exe
+C:\Users\黒田悠介\AppData\Local\Temporary Projects\A-Go_Calc\obj\x86\Debug\A-Go_Calc.pdb
+C:\Users\黒田悠介\Documents\Visual Studio 2010\Projects\A-Go_Calc\A-Go_Calc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\黒田悠介\Documents\Visual Studio 2010\Projects\A-Go_Calc\A-Go_Calc\obj\x86\Debug\A_Go_Calc.Form1.resources
+C:\Users\黒田悠介\Documents\Visual Studio 2010\Projects\A-Go_Calc\A-Go_Calc\obj\x86\Debug\A_Go_Calc.Properties.Resources.resources
+C:\Users\黒田悠介\Documents\Visual Studio 2010\Projects\A-Go_Calc\A-Go_Calc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\黒田悠介\Documents\Visual Studio 2010\Projects\A-Go_Calc\A-Go_Calc\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\黒田悠介\Documents\Visual Studio 2010\Projects\A-Go_Calc\A-Go_Calc\bin\Debug\あ号進行度計算機.exe
+C:\Users\黒田悠介\Documents\Visual Studio 2010\Projects\A-Go_Calc\A-Go_Calc\bin\Debug\あ号進行度計算機.pdb
+C:\Users\黒田悠介\Documents\Visual Studio 2010\Projects\A-Go_Calc\A-Go_Calc\obj\x86\Debug\あ号進行度計算機.exe
+C:\Users\黒田悠介\Documents\Visual Studio 2010\Projects\A-Go_Calc\A-Go_Calc\obj\x86\Debug\あ号進行度計算機.pdb
+F:\Users\Desktop\プログラミング\A-Go_Calc\A-Go_Calc\obj\x86\Debug\A-Go_Calc.csprojResolveAssemblyReference.cache
+F:\Users\Desktop\プログラミング\A-Go_Calc\A-Go_Calc\obj\x86\Debug\A_Go_Calc.Form1.resources
+F:\Users\Desktop\プログラミング\A-Go_Calc\A-Go_Calc\obj\x86\Debug\A_Go_Calc.Properties.Resources.resources
+F:\Users\Desktop\プログラミング\A-Go_Calc\A-Go_Calc\obj\x86\Debug\A-Go_Calc.csproj.GenerateResource.Cache
+F:\Users\Desktop\プログラミング\A-Go_Calc\A-Go_Calc\obj\x86\Debug\あ号進行度計算機.exe
+F:\Users\Desktop\プログラミング\A-Go_Calc\A-Go_Calc\bin\Debug\あ号進行度計算機.exe
+F:\Users\Desktop\プログラミング\A-Go_Calc\A-Go_Calc\bin\Debug\あ号進行度計算機.pdb
+F:\Users\Desktop\プログラミング\A-Go_Calc\A-Go_Calc\obj\x86\Debug\あ号進行度計算機.pdb
+F:\Users\Desktop\プログラミング\A-Go_Calc\A-Go_Calc\bin\Debug\あ号進行度計算機.exe.config
